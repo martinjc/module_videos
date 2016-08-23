@@ -1,0 +1,146 @@
+body {
+    font-family: "Franklin Gothic Book","Helvetica Neue",Helvetica,Arial,sans-serif;
+    box-sizing: border-box;
+}
+
+table {
+    margin: auto;
+}
+
+img {
+    display: block;
+}
+
+iframe {
+    display: block;
+    margin-top: 0.5em;  
+}
+
+td {
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+    text-align: center;
+    width: 40%;
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+
+ul {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.degrees {
+    font-size: 2em;;
+}
+
+.introduction {
+    display: flex;
+    flex-direction: row;
+    flex-flow: row wrap;
+    font-weight: 400;
+    color: rgba(35, 31, 32, 0.8);
+}
+
+.introduction h1 {
+    flex: 1 100%
+}
+
+.description {
+    width: 60%;
+    margin-right: 20px;
+}
+
+.key {
+    width: 30%;
+}
+
+table.key {
+    border: 1px solid #000;
+}
+
+table.key td {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+table.key thead td {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    border: none;
+    font-weight: 700;
+}
+
+.message p {
+    color: rgb(206, 5, 56);
+}
+
+.instructions {
+    font-size: 1em;
+}
+
+.core {
+    background-color: rgba(200, 187, 141, 0.4);
+}
+
+.empty {
+    border: none;
+}
+
+.available:hover{
+    background-color: rgba(29, 15, 51, 0.4);
+}
+
+.selected {
+    background-color: rgba(0, 154, 68, 0.4);
+}
+
+.selected:hover {
+    background-color: rgba(0, 154, 68, 0.6);
+}
+
+.unavailable {
+    background-color: rgba(247, 141, 30, 0.4);
+}
+
+.unavailable:hover {
+    background-color: rgba(247, 141, 30, 0.4);
+}
+
+.clear {
+    clear: both;
+}
+
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    background-color: rgb(21, 44, 81);
+    padding: 0.5em;
+    border-radius: 5px;
+    color: #fff;
+    margin-top: 0;
+}
+
+h2 {
+    color: rgb(206, 5, 56);
+}
+
+h3 {
+    background-color: rgb(60, 44, 89);
+    padding: 0.5em;
+    border-radius: 5px;
+    color: #fff;
+}
+
+h2:first-of-type {
+    margin-top: 0;
+}
+
+section {
+    width: 80%;
+    margin: auto;
+    padding-bottom: 1em;
+}
