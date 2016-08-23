@@ -80,6 +80,17 @@ table.key thead td {
     font-weight: 700;
 }
 
+table.key a {
+    text-decoration: none;
+    color: rgb(206,5,56);
+}
+
+table.key a:visited {
+    color: rgb(60, 44, 89);
+}
+
+
+
 .message p {
     color: rgb(206, 5, 56);
 }
