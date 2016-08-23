@@ -9,11 +9,19 @@ table {
 
 img {
     display: block;
+    width: 100%
 }
 
 iframe {
+    width: 720px;
     display: block;
-    margin-top: 0.5em;  
+    margin-top: 0.5em;
+}
+
+@media (max-width: 800px) {
+    iframe {
+        width: 500px;
+    }
 }
 
 td {
