@@ -64,6 +64,16 @@ ul {
     width: 30%;
 }
 
+.dj {
+    width: 100%;
+}
+
+.dj td {
+    width: 25%;
+}
+
+
+
 table.key {
     border: 1px solid #000;
 }
