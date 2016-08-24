@@ -16,7 +16,7 @@ modules = {
     "CMT212": "https://cardiff.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=4b02ae8b-16da-4ffa-a50f-31e40682f85d",
     "CMT213": "https://cardiff.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=4d8e28b8-127a-4905-80d8-2f54456df9b3",
     "CMT301": "https://cardiff.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=b7683eda-c278-4fb5-b907-51886b9bf9c8",
-    "CMT302": "",
+    "CMT302": "https://cardiff.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=d92d85f8-0de0-4e73-a6eb-701798752076",
     "CMT303": "https://cardiff.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=33a0ef4d-43e6-436e-89dc-fae7547cf5a5",
     "CMT304": "https://cardiff.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=d115bd9b-e7f0-48db-b320-bb24618e6b02",
     "CMT306": "https://cardiff.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=04f99bf3-4d14-4f18-ae3a-e1d69aae9cc7"
