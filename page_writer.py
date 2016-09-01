@@ -1,5 +1,5 @@
 modules = {
-    "CMT102": "",
+    "CMT102": "https://cardiff.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=4629df0a-ff75-4f32-846b-a129ff3e6c21",
     "CMT103": "https://cardiff.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=9039023b-2f6a-43f1-b498-5350e711c982",
     "CMT104": "",
     "CMT105": "https://cardiff.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=acfc5ad0-c8cd-4c13-97fd-b1bc49157827",
